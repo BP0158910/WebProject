@@ -1,0 +1,42 @@
+#opening-para {
+	background-color: tomato;
+	padding: 20px;
+	border: 2px solid blue;
+}
+
+.blog-post {
+	background-color: tomato;
+	color: white;
+}
+
+h1{
+color:rgb(255, 153, 102);
+}
+
+#first-para {
+color: hsl(260, 100%, 70%);
+}
+
+#Proxies {
+color: rgb(204, 153, 255);
+}
+
+body {
+	font-size: 105%;
+	}
+
+p {
+font-size: 1em; 
+}
+
+.small {
+	font-size:75%; /* equivalent to 12px */ 
+	background-color:rgb(204, 153, 255);
+	padding: 2px;
+	}
+
+.large {
+	font-size:150%; /* equivalent to 20px */
+	background-color:skyblue;
+	padding: 15px;
+	border: 2px solid black
